@@ -1,5 +1,5 @@
+// Code by Harsh Deshmukh SY CSE-B 15
 #include <iostream>
-#include <string>
 using namespace std;
 
 class Student
