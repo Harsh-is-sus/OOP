@@ -1,5 +1,5 @@
 // Code by Harsh Deshmukh SY CSE-B 15
-// Write a c++ code to create a class which calculates area of a circle.
+// Write a c++ code to create a class which calculates area of a circle
 
 #include <iostream>
 using namespace std;
