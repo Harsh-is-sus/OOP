@@ -1,0 +1,27 @@
+// Code by Harsh Deshmukh SY CSE-B 15
+// Write an inline function to calculate the factorial of a number
+
+#include <iostream>
+using namespace std;
+
+inline int factorial(int n)
+{
+    int fact = 1;
+
+    for(int i = 1; i <= n; i++)
+        fact *= i;
+
+    return fact;
+}
+
+int main()
+{
+    int num;
+
+    cout << "Enter a number: ";
+    cin >> num;
+
+    cout << "Factorial = " << factorial(num);
+
+    return 0;
+}
