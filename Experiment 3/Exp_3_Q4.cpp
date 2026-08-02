@@ -1,3 +1,6 @@
+// Code by Harsh Deshmukh SY CSE-B 15
+// Write a program to convert float datatype number into integer and integer into float.
+
 #include <iostream>
 using namespace std;
 
